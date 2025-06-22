@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [banKan](https://github.com/arafkubraa/banKan)
 
-- 🌱 I’m currently learning **Swift,JavaScript**
+- 🌱 I’m currently learning **PySide6,JavaScript**
 
-- 💬 Ask me about **C,Kotlin**
+- 💬 Ask me about **C,Python,Kotlin**
 
 - 📫 How to reach me **kbrtln06@gmail.com**
 
