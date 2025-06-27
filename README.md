@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kübra ATLAN</h1>
 <h3 align="center">Computer Engineering Student at Karadeniz Technical University.</h3>
 
-- 🔭 I’m currently working on [banKan](https://github.com/arafkubraa/banKan)
+- 🔭 I'm currently working as a collaborator on the STR-SteelMemberDesign project.
 
 - 🌱 I’m currently learning **PySide6,JavaScript**
 
