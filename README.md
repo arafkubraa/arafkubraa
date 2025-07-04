@@ -1,4 +1,13 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=arafkubraa&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/arafkubraa/count.svg" alt="visitor count"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arafkubraa&theme=monokai" />
+  </a>
+</p>
+
 
 
 
