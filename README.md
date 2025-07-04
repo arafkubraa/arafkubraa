@@ -1,7 +1,6 @@
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=arafkubraa&theme=dracula" />
-</a>
-
+<p align="center">
+  <img src="https://profile-counter.glitch.me/arafkubraa/count.svg" alt="visitor count"/>
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Kübra ATLAN</h1>
