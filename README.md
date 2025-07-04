@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arafkubraa.arafkubraa" alt="visitor badge"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Kübra ATLAN</h1>
 <h3 align="center">Computer Engineering Student at Karadeniz Technical University.</h3>
 
@@ -11,9 +16,6 @@
 
 - 🪄✨ About Me **I’m currently working on mobile development projects, focusing on creating intuitive and user-friendly interfaces. My design skills add a unique touch to my work. Always eager to learn and grow, I’m open to new projects and collaborative open-source contributions!**
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=arafkubraa.arafkubraa" alt="visitor badge"/>
-</p>
 
 
 <h3 align="left">Connect with me:</h3>
