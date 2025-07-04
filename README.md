@@ -10,7 +10,7 @@
 - 💬 Ask me about **C, Python, Kotlin**
 - 📫 How to reach me: **kbrtln06@gmail.com**
 - 🪄✨ About Me:  
-  I’m currently working on mobile development projects, focusing on creating intuitive and user-friendly interfaces.  
+  I’m currently working on desktop development projects, focusing on creating intuitive and user-friendly interfaces.  
   My design skills add a unique touch to my work.  
   Always eager to learn and grow, I’m open to new projects and collaborative open-source contributions!
 
