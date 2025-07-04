@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=arafkubraa.arafkubraa" alt="visitor badge"/>
-</p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=arafkubraa&theme=dracula" />
+</a>
+
 
 
 <h1 align="center">Hi 👋, I'm Kübra ATLAN</h1>
