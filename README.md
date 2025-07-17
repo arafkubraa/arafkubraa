@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://profile-counter.glitch.me/arafkubraa/count.svg" alt="Visitor Count"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Kübra ATLAN</h1>
 <h3 align="center">Computer Engineering Student at Karadeniz Technical University</h3>
