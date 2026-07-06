@@ -123,33 +123,6 @@ Android application for blood donation management developed with Kotlin and Fire
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arafkubraa&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arafkubraa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafkubraa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=arafkubraa&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🌐 Connect with Me
 
