@@ -1,25 +1,34 @@
 <h1 align="center">Hi 👋, I'm Kübra Atlan</h1>
 
-<h3 align="center">
-New Graduate Computer Engineer • Desktop Software Developer • Machine Learning Enthusiast
-</h3>
+<p align="center">
+<b>Software Engineer • Desktop Application Developer • Machine Learning Enthusiast</b>
+</p>
 
 <p align="center">
-Passionate about building desktop applications, implementing machine learning algorithms from scratch, and creating intuitive user experiences.
+Building desktop software and implementing machine learning algorithms from scratch using C++ and Python.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=arafkubraa&style=flat-square&color=4C8EDA" alt="Profile Views"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 **New Graduate Computer Engineer** from **Karadeniz Technical University**
+🎓 New Graduate Computer Engineer from **Karadeniz Technical University**
 
 💼 Collaborator on the **STR-SteelMemberDesign** project
 
-🖥️ Interested in **Desktop Application Development**, **Machine Learning**, and **Algorithm Design**
+🖥️ Passionate about desktop software development, machine learning, and algorithm implementation
 
-🧠 I enjoy implementing machine learning algorithms **from scratch** instead of relying solely on high-level libraries.
+🧠 I enjoy implementing machine learning algorithms from scratch instead of relying solely on high-level frameworks.
 
+🌱 Currently learning
+
+- PySide6
+- JavaScript
+- Advanced C++
 
 💬 Ask me about
 
@@ -29,7 +38,7 @@ Passionate about building desktop applications, implementing machine learning al
 - Qt / PySide6
 - Machine Learning
 
-📫 Reach me at
+📫 Contact
 
 **kbrtln06@gmail.com**
 
@@ -39,45 +48,45 @@ Passionate about building desktop applications, implementing machine learning al
 
 ### 🏗️ Steel Section Designer
 
-Desktop engineering software for structural steel section optimization based on **AISC 360-22**.
+Desktop engineering software developed for structural steel section optimization according to **AISC 360-22** specifications.
 
 ---
 
-### 🧠 Handwritten Digit Recognition
+### ✍️ Handwritten Digit Recognition
 
-Neural Network implemented entirely from scratch in **C++**, including
+Desktop application featuring a neural network implemented from scratch in C++ with a PySide6 interface.
 
-- Feedforward
-- Backpropagation
+Highlights:
+
+- Feedforward Neural Network
 - Autoencoder Pretraining
+- Backpropagation
 - Softmax Classification
 - Momentum Optimization
 
-with a PySide6 desktop interface.
-
 ---
 
-### 📊 Classification from Scratch
+### 📊 Classification Algorithms
 
-Machine learning classification algorithms implemented from scratch.
+Desktop application implementing classical machine learning classification algorithms from scratch.
 
-Includes
+Includes:
 
 - Binary Perceptron
 - Multiclass Perceptron
-- Multi-Layer Perceptron (MLP)
+- Multi-Layer Perceptron
 - Z-Score Normalization
 
 ---
 
-### 📈 Regression from Scratch
+### 📈 Regression Algorithms
 
-Regression algorithms implemented from scratch.
+Desktop application implementing regression algorithms from scratch.
 
-Includes
+Includes:
 
 - Linear Regression
-- Multi-Layer Perceptron Regression
+- MLP Regression
 - Gradient Descent
 - Momentum Optimization
 
@@ -85,7 +94,7 @@ Includes
 
 ### 🩸 BanKan
 
-Android mobile application developed for blood donation management using Kotlin and Firebase.
+Android application for blood donation management developed with Kotlin and Firebase.
 
 ---
 
@@ -94,20 +103,51 @@ Android mobile application developed for blood donation management using Kotlin 
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,kotlin,java,js"/>
-
+<img src="https://skillicons.dev/icons?i=cpp,c,python,kotlin,java,js" />
 </p>
 
-### Frameworks & Libraries
+### Frameworks & Tools
 
 <p>
+<img src="https://skillicons.dev/icons?i=qt,firebase,git,github,figma,androidstudio,vscode,visualstudio" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=qt,firebase,git,github,figma,androidstudio"/>
+### Areas of Interest
+
+- Desktop Application Development
+- Machine Learning
+- Neural Networks
+- Computer Vision
+- Artificial Intelligence
+- Algorithm Design
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=arafkubraa&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arafkubraa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafkubraa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=arafkubraa&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -115,42 +155,18 @@ Android mobile application developed for blood donation management using Kotlin 
 
 <p align="left">
 
-<a href="https://linkedin.com/in/arafkubraa">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
 <a href="mailto:kbrtln06@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-</p>
-
----
-
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arafkubraa&theme=tokyo-night"/>
+<a href="https://linkedin.com/in/arafkubraa">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
 </p>
 
 ---
 
-# 🎯 Areas of Interest
+# 🎯 Career Objective
 
-- Desktop Application Development
-- Machine Learning
-- Neural Networks
-- Algorithm Development
-- C++ Software Engineering
-- Computer Vision
-- UI/UX Design
-- Open Source
-
----
-
-# 📌 Career Goal
-
-I am seeking opportunities as a **Software Engineer**, **Desktop Application Developer**, or **Machine Learning Engineer**, where I can continue building robust software solutions while expanding my expertise in algorithm development and artificial intelligence.
+I am seeking opportunities as a **Software Engineer**, **Desktop Application Developer**, or **Machine Learning Engineer**, where I can contribute to real-world software projects while continuously improving my expertise in C++, Python, and artificial intelligence.
